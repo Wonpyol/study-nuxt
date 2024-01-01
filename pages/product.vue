@@ -1,7 +1,7 @@
 <template>
   <div>
     <ul>
-      <li>상품</li>
+      <li>상품 페이지 입니다.</li>
     </ul>
   </div>
 </template>
