@@ -1,6 +1,10 @@
 <template>
   <div>
-    <h1>{{ $route.name }}</h1>
+    <header>
+      <h1>{{ $route.name }}</h1>
+      <NuxtLink to="/">메인으로</NuxtLink>
+      <NuxtLink to="/product">상품페이지</NuxtLink>
+    </header>
     <slot />
   </div>
 </template>

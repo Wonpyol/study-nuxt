@@ -2,7 +2,6 @@
   <div>
     <ul>
       <li>상품</li>
-
     </ul>
   </div>
 </template>
